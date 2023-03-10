@@ -1,2 +1,2 @@
 #!/bin/bash
-/etc/magic file
+$ file -m school.mgc *
