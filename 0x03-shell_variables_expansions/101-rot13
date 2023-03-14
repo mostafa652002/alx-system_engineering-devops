@@ -1,2 +1,2 @@
 #!/bin/bash
-paste - - | cut -d$'\t' -f1
+tr 'echo (a..z} | tr -d ' '` `echo {n..z} $(echo {a..m} -d trecho {A..Z} | tr -d `echo{N..Z} $(ech A..M}) | tr -d ''
